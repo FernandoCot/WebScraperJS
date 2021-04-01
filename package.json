@@ -18,8 +18,6 @@
   },
   "homepage": "https://github.com/FernandoCot/WebScraperJS#readme",
   "dependencies": {
-    "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.5",
     "puppeteer": "^8.0.0"
   }
 }
